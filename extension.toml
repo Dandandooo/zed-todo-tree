@@ -1,0 +1,7 @@
+id = "todo-tree"
+name = "Todo Tree"
+version = "0.0.1"
+schema_version = 1
+authors = ["Daniel Philipov <batkodanny@gmail.com>"]
+description = "Highlights and lists TODO/FIXME comments."
+repository = "https://github.com/your-username/zed-todo-tree"
